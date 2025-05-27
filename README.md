@@ -24,7 +24,7 @@ The goal of this series is to help guide and support fellow cloud professionals 
 
 | # | Title | Link |
 |--:|:------|:-----|
-| 1 | Introducing the Series - A proactive approach to Cloud Security with Microsoft Defender for Cloud | [Read Now](.Articles/01-Series-Introduction.md) |
+| 1 | Introducing the Series - A proactive approach to Cloud Security with Microsoft Defender for Cloud | [Read Now](Articles/01-Series-Introduction.md) |
 | 2 | Defending the Cloud: A Beginner’s Journey | Coming Soon |
 <!-- Future Articles ideas
 | 3 | Getting Started – Enabling Defender for Cloud | Coming Soon |
