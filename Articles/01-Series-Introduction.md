@@ -5,10 +5,10 @@ Whenever a new initiative kicks off in your organization, Security should be bui
 
 That’s where **Microsoft Defender for Cloud** comes in. It’s Microsoft’s native solution for securing cloud environments across Azure, AWS, and GCP, helping you stay both proactive (through security recommendations) and reactive (via actionable alerts). But **Defender for Cloud** goes far beyond just alerts. It’s a powerful platform packed with features to help you monitor, protect, and improve your Cloud Security Posture.
 
-In this series, we’ll explore those capabilities — so you can get the most out of **Defender for Cloud** and build a cloud environment that’s truly **secure by design**.
+In this series, we’ll explore those capabilities, so you can get the most out of **Defender for Cloud** and build a cloud environment that’s truly **secure by design**.
 
 
 ## 🚀 **Coming Soon** <br>
 **“Defending the Cloud: A Beginner’s Journey”** — breaking down the core capabilities and features and why you should adopt it in your organization.
 
-Until then — stay secure and stay informed!
+Until then, stay secure and stay informed!
